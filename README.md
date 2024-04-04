@@ -1,11 +1,11 @@
-# Clustering-non-supervisionato-con-K-Means
+# Unsupervised clustering with K-Means
 
 
 
-L'apprendimento non supervisionato è una branca fondamentale dell'analisi dei dati che si concentra sulla scoperta di strutture nascoste nei dati senza la presenza di etichette di output.
+Unsupervised learning is a fundamental branch of data analysis that focuses on discovering hidden structures in data without the presence of output labels.
 
-Tra le diverse tecniche di apprendimento non supervisionato, l'algoritmo K-Means è uno dei più utilizzati e apprezzati per il clustering dei dati.
+Among the various unsupervised learning techniques, the K-means algorithm is one of the most widely used and popular for data clustering.
 
-Vediamo in dettaglio il funzionamento e l'applicazione di K-means, un algoritmo di clustering partizionale che ha dimostrato di essere efficace nella suddivisione dei dati in gruppi omogenei.
+Let us take a detailed look at the operation and application of K-means, a partitional clustering algorithm that has proven to be effective in dividing data into homogeneous groups.
 
-L'obiettivo di K-means è assegnare ogni punto dati al cluster più vicino rispetto al centroide di quel cluster, al fine di minimizzare l'errore quadratico totale.
+The goal of K-means is to assign each data point to the closest cluster relative to the centroid of that cluster, in order to minimise the total square error.
